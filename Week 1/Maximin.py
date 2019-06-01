@@ -15,6 +15,7 @@ elif (a>=b) and (a<=c) and (b<=c):
     print(c)
     print(b)
     print(a)
+
 elif (a<=b) and (a>=c) and (b>=c):
     print(b)
     print(c)
