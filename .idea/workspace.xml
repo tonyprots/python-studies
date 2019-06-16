@@ -2,16 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3d99ca1-2b6c-4867-8ca2-32e810da60a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week 2/Average for three.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 2/DNA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 2/More than one.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 2/Percent in a string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 2/Sum of neighbours.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_JSON training/Lesson 3/backend-stepik-delivery/.idea/backend-stepik-delivery.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_JSON training/Lesson 3/backend-stepik-delivery/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_JSON training/Lesson 3/backend-stepik-delivery/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_JSON training/Lesson 3/backend-stepik-delivery/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_JSON training/Lesson 3/backend-stepik-delivery/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_JSON training/Lesson 3/backend-stepik-delivery/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_JSON training/Lesson 3/backend-stepik-delivery/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_JSON training/Lesson 3/backend-stepik-delivery/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_JSON training/Lesson 3/backend-stepik-delivery/cgi-bin/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_JSON training/Lesson 3/backend-stepik-delivery/course.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_JSON training/Lesson 3/backend-stepik-delivery/dogs/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_JSON training/Lesson 3/backend-stepik-delivery/dogs/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_JSON training/Lesson 3/backend-stepik-delivery/dogs/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_JSON training/Lesson 3/backend-stepik-delivery/human.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_JSON training/Lesson 3/backend-stepik-delivery/server1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_JSON training/Lesson 3/backend-stepik-delivery/server2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/N numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/String X seeker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Sum matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Sum zero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Decode string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Dict fx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Videocourse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Words count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/dataset.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/modify_list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Videocourse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 1/Videocourse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Least common multiple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Least common multiple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Math table.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Math table.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Videocourse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Videocourse.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,91 +39,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 2/Videocourse.py">
+        <entry file="file://$PROJECT_DIR$/Week 3/Videocourse.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="228">
+              <caret line="54" column="11" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 2/Sum of neighbours.py">
+        <entry file="file://$PROJECT_DIR$/Week 3/Words count.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" selection-start-line="20" selection-end-line="24" selection-end-column="19" />
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="10" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 3/Dict fx.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week 2/More than one.py">
+        <entry file="file://$PROJECT_DIR$/Week 3/Decode string.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 2/Percent in a string.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 2/DNA.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="16" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 2/Math table.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 2/Least common multiple.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 1/Robot.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 1/Ticket.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python.txt">
+        <entry file="file://$PROJECT_DIR$/Week 3/dataset.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="11" selection-end-column="11" />
+              <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 3/modify_list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -144,10 +125,20 @@
         <option value="$PROJECT_DIR$/Week 2/Videocourse.py" />
         <option value="$PROJECT_DIR$/Week 2/Sum of neighbours.py" />
         <option value="$PROJECT_DIR$/Week 2/More than one.py" />
+        <option value="$PROJECT_DIR$/Week 2/Sum zero.py" />
+        <option value="$PROJECT_DIR$/Week 2/N numbers.py" />
+        <option value="$PROJECT_DIR$/Week 2/String X seeker.py" />
+        <option value="$PROJECT_DIR$/Week 2/Sum matrix.py" />
+        <option value="$PROJECT_DIR$/Week 3/modify_list.py" />
+        <option value="$PROJECT_DIR$/Week 3/Videocourse.py" />
+        <option value="$PROJECT_DIR$/Week 3/Words count.py" />
+        <option value="$PROJECT_DIR$/Week 3/Dict fx.py" />
+        <option value="$PROJECT_DIR$/Week 3/dataset.txt" />
+        <option value="$PROJECT_DIR$/Week 3/Decode string.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -170,12 +161,7 @@
             <path>
               <item name="python-studies" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-studies" type="462c0819:PsiDirectoryNode" />
-              <item name="Week 1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-studies" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-studies" type="462c0819:PsiDirectoryNode" />
-              <item name="Week 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -186,9 +172,13 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Flask-Python-JSON learning/Lesson 3" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Flask-Python-JSON learning/Lesson 3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Week 1" />
       <recent name="$PROJECT_DIR$" />
@@ -207,8 +197,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.More than one">
-    <configuration name="DNA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Decode string">
+    <configuration name="Decode string" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-studies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,11 +206,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2/DNA.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 3/Decode string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,7 +219,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="More than one" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Dict fx" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-studies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,53 +227,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2/More than one.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Percent in a string" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-studies" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2/Percent in a string.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Sum of neighbours" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-studies" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2/Sum of neighbours.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 3/Dict fx.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -300,11 +248,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2/Videocourse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 3/Videocourse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Words count" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-studies" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 3/Words count.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="modify_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-studies" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 3/modify_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -315,11 +305,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.More than one" />
-        <item itemvalue="Python.Sum of neighbours" />
+        <item itemvalue="Python.Decode string" />
+        <item itemvalue="Python.Dict fx" />
+        <item itemvalue="Python.Words count" />
         <item itemvalue="Python.Videocourse" />
-        <item itemvalue="Python.DNA" />
-        <item itemvalue="Python.Percent in a string" />
+        <item itemvalue="Python.modify_list" />
       </list>
     </recent_temporary>
   </component>
@@ -346,10 +336,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -360,7 +350,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.29277107" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.29156625" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50143063" side_tool="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -442,8 +432,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 2/Videocourse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="690">
           <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/Sum of neighbours.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/More than one.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/Sum zero.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/N numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -451,6 +469,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/DNA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="16" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -468,24 +493,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/DNA.py">
+    <entry file="file://$PROJECT_DIR$/Week 2/String X seeker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="16" selection-end-column="15" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="20" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/Sum of neighbours.py">
+    <entry file="file://$PROJECT_DIR$/Week 2/Sum matrix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="24" selection-end-column="19" />
+        <state relative-caret-position="322">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/More than one.py">
+    <entry file="file://$PROJECT_DIR$/Week 3/modify_list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        <state relative-caret-position="88">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Words count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Videocourse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="54" column="11" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Dict fx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/dataset.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Decode string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
