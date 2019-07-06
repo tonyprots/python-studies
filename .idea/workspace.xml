@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3d99ca1-2b6c-4867-8ca2-32e810da60a2" name="Default Changelist" comment="sum matrix solved">
-      <change afterPath="$PROJECT_DIR$/Week 2/Circular matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Matches analysis.py" afterDir="false" />
+    <list default="true" id="b3d99ca1-2b6c-4867-8ca2-32e810da60a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Week 3/Decoding with dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Spelling check.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Requests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Requests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 3/Decode string.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 3/Decode string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 3/Frequency counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 3/Frequency counter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 3/dataset.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week 3/dataset.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 3/dataset2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week 3/dataset2.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +41,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week 3/Matches analysis.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -56,19 +51,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 3/Dict fx.py">
+        <entry file="file://$PROJECT_DIR$/Week 3/Decoding with dictionary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            <state>
+              <caret column="8" lean-forward="true" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week 3/Spelling check.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="36" lean-forward="true" selection-end-line="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 3/Module math.py">
+        <entry file="file://$PROJECT_DIR$/Week 3/Dict fx.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="255">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -96,15 +100,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" selection-start-line="6" selection-end-line="10" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 3/modify_list.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -171,6 +166,8 @@
         <option value="$PROJECT_DIR$/Week 2/Requests.py" />
         <option value="$PROJECT_DIR$/Week 2/Circular matrix.py" />
         <option value="$PROJECT_DIR$/Week 3/Matches analysis.py" />
+        <option value="$PROJECT_DIR$/Week 3/Decoding with dictionary.py" />
+        <option value="$PROJECT_DIR$/Week 3/Spelling check.py" />
       </list>
     </option>
   </component>
@@ -239,28 +236,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Matches analysis">
-    <configuration name="Average grade for students" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-studies" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 3/Average grade for students.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Spelling check">
     <configuration name="Circular matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-studies" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -282,7 +258,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Frequency counter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Decoding with dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-studies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -294,7 +270,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 3/Frequency counter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 3/Decoding with dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -345,13 +321,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Spelling check" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-studies" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 3/Spelling check.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Spelling check" />
+        <item itemvalue="Python.Decoding with dictionary" />
         <item itemvalue="Python.Matches analysis" />
         <item itemvalue="Python.Circular matrix" />
         <item itemvalue="Python.Requests" />
-        <item itemvalue="Python.Average grade for students" />
-        <item itemvalue="Python.Frequency counter" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +370,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561755536051</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="course almost finished">
+      <created>1562429533652</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562429533652</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -412,7 +416,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sum matrix solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="sum matrix solved" />
+    <MESSAGE value="course almost finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="course almost finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -655,6 +660,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="35" column="26" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Decoding with dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" lean-forward="true" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Spelling check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="36" lean-forward="true" selection-end-line="36" />
         </state>
       </provider>
     </entry>
