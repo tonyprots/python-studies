@@ -7,14 +7,14 @@
 В поле ответа введите одно число или отправьте файл, содержащий одно число.
 """
 
-"""import requests
+import requests
 
-r = requests.get('https://stepic.org/media/attachments/course67/3.6.2/685.txt')
+r = requests.get("https://stepic.org/media/attachments/course67/3.6.2/088.txt")
 print(r.text)
 count=0
 for i in r.text.splitlines():
     count+=1
-print(count)"""
+print(count)
 
 """
 Имеется набор файлов, каждый из которых, кроме последнего, содержит имя следующего файла.
@@ -27,9 +27,10 @@ https://stepic.org/media/attachments/course67/3.6.3/
 
 Загрузите содержимое ﻿последнего файла из набора, как ответ на это задание.
 """
-
+"""
 import requests
 r = requests.get('https://stepic.org/media/attachments/course67/3.6.3/699991.txt')
 while r.text[:2]!='We':
     r = requests.get('https://stepic.org/media/attachments/course67/3.6.3/'+ r.text)
 print(r.text)
+"""

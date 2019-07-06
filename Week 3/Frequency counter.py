@@ -1,20 +1,27 @@
-"""
-Недавно мы считали для каждого слова количество его вхождений в строку. Но на все слова может быть не так интересно смотреть, как, например, на наиболее часто используемые.
-
-Напишите программу, которая считывает текст из файла (в файле может быть больше одной строки) и выводит самое частое слово в этом тексте и через пробел то, сколько раз оно встретилось. Если таких слов несколько, вывести лексикографически первое (можно использовать оператор < для строк).
-
-Слова, написанные в разных регистрах, считаются одинаковыми.
-"""
-
-with open ('../Week 3/dataset.txt') as inf:
-    q=inf.readline()
-#q = "abc a bCd bC AbC BC BCD bcd ABC"
-s=q.lower().split()
-print(s)
+w=[]
+with open('../Week 3/dataset.txt') as inf:
+    q = inf.readlines()
+# q = "abc a bCd bC AbC BC BCD bcd ABC"
+print(q)
+for i in q:
+    w +=i.split()
+print(w)
 count=0
-key=""
+for i in w:
+    w[count]=i.lower()
+    count+=1
+s = w
+print(s)
+s.sort()
+count = 0
+key = ""
+check = ""
 for i in s:
-    if s.count(i)>count:
-        count=s.count(i)
-        key=i
+    if s.count(i) > count:
+        count = s.count(i)
+        key = i
+    if s.count(i) == count:
+        check = i
+if check < i:
+    key = check
 print(key, count)

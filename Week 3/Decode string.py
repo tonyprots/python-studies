@@ -13,7 +13,7 @@
 
 #with open ('../Week 3/dataset.txt') as inf:
 #    q=inf.readline()
-q="b6N9P1W20g11d19h10g14I17i6m5k7Y2C10P10o11d5w20x10v16R10L19G9r11b4F3E3X1S10b20u9I18q7j20e1r17t16e6W6I14L3O8"
+q="o1G4d6E3d20f14H5X5G9t3g18I12a12X9v18u20E20d4m16u8i16Z14H13Y14 "
 w=''
 for i in range(len(q)):
     if q[i].isalpha()== True:
