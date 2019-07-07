@@ -12,13 +12,53 @@ Sample Output:
 13 12 11 10 9
 """
 
-# n = int(input())
-n = 6
+n = int(input())
+
 x = []
 for i in range(n):
     x.append([])
     for j in range(n):
         x[i].append(1)
+
+count = 1
+for i in range(n):
+    x[0][i] = count
+    count += 1
+cnt = 0
+
+while True:
+    if count > n * n:
+        break
+    for i in range(n - 1 - cnt * 2):
+        x[i + 1 + cnt][n - 1 - cnt] = count
+        count += 1
+    if count > n * n:
+        break
+    for i in range(n - 2 - cnt, -1 + cnt, -1):
+        x[n - 1 - cnt][i] = count
+        count += 1
+    if count > n * n:
+        break
+    for i in range(n - 2 - cnt, 0 + cnt, -1):
+        x[i][0 + cnt] = count
+        count += 1
+    if count > n * n:
+        break
+    for i in range(1 + cnt, n - 1 - cnt):
+        x[1 + cnt][i] = count
+        count += 1
+    if count > n * n:
+        break
+    cnt += 1
+
+for i in x:
+    for ii in i:
+        print(ii, end=" ")
+    print()
+
+# Код, который ни к чему не привел:
+
+"""
 count = 1
 round = -1
 round_x = 1
@@ -60,7 +100,7 @@ while round<2:
 for line in x:
     print(line, end="\n")
 
-"""
+
 round = 0
 while count!=(n+1):
     x[0][count-1]=count
